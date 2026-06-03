@@ -1,3 +1,3 @@
 import subprocess
 
-subprocess.run(["python", "-m", "maigret", "--web", "5000"])
+subprocess.run(["py", "-m", "maigret", "--web", "5000"])
